@@ -100,7 +100,7 @@ html, body {
 }
 .bg-pattern-top {
     width: 900px;
-    position: fixed;
+    position: absolute;
     top: -480px;
     left: -275px;
 }
